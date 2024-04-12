@@ -1,2 +1,2 @@
 Create file conflict
-Xu ly xung dot conflict
+thuoc branch conflict
